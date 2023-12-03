@@ -1,5 +1,9 @@
 <h3 align="center">Make it 🌙</h3>
 
+<p align="center">
+  <img src="banner.webp"/>
+</p>
+
 #### Github
 [![PuzzleMoon's GitHub stats-Dark](https://github-readme-stats-zeta-six-28.vercel.app/api?username=puzzlemoondev&theme=gruvbox&show_icons=true&show=reviews,prs_merged&hide_title=true&hide_border=true&bg_color=00000000#gh-dark-mode-only)](https://github.com/puzzlemoondev#gh-dark-mode-only)
 [![PuzzleMoon's GitHub stats-Light](https://github-readme-stats-zeta-six-28.vercel.app/api?username=puzzlemoondev&theme=gruvbox_light&show_icons=true&show=reviews,prs_merged&hide_title=true&hide_border=true&bg_color=00000000#gh-light-mode-only)](https://github.com/puzzlemoondev#gh-light-mode-only)
