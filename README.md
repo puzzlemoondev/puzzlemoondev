@@ -10,7 +10,7 @@
 
 #### 𝕊𝕡𝕠𝕥𝕚𝕗𝕪
 [![spotify-github-profile-Dark](https://spotify-github-profile.vercel.app/api/view?uid=316zpxovrgg4api2ayhc2uxxecwi&cover_image=true&theme=compact&show_offline=false&background_color=00000000&interchange=false#gh-dark-mode-only)](https://spotify-github-profile.vercel.app/api/view?uid=316zpxovrgg4api2ayhc2uxxecwi&redirect=true#gh-dark-mode-only)
-[![spotify-github-profile-Light](https://spotify-github-profile.vercel.app/api/view?uid=316zpxovrgg4api2ayhc2uxxecwi&cover_image=true&theme=compact&show_offline=false&background_color=fbf1c7&interchange=false#gh-light-mode-only)](https://spotify-github-profile.vercel.app/api/view?uid=316zpxovrgg4api2ayhc2uxxecwi&redirect=true#gh-light-mode-only)
+[![spotify-github-profile-Light](https://spotify-github-profile.vercel.app/api/view?uid=316zpxovrgg4api2ayhc2uxxecwi&cover_image=true&theme=compact&show_offline=false&background_color=f2e5bc&interchange=false#gh-light-mode-only)](https://spotify-github-profile.vercel.app/api/view?uid=316zpxovrgg4api2ayhc2uxxecwi&redirect=true#gh-light-mode-only)
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
