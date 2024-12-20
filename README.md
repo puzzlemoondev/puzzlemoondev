@@ -7,6 +7,8 @@
 #### 𝔾𝕚𝕥𝕙𝕦𝕓
 [![github-readme-stats-Dark](https://github-readme-stats-zeta-six-28.vercel.app/api?username=puzzlemoondev&theme=gruvbox&show_icons=true&show=reviews,prs_merged&hide_title=true&hide_border=true&bg_color=00000000#gh-dark-mode-only)](https://github.com/puzzlemoondev#gh-dark-mode-only)
 [![github-readme-stats-Light](https://github-readme-stats-zeta-six-28.vercel.app/api?username=puzzlemoondev&theme=gruvbox_light&show_icons=true&show=reviews,prs_merged&hide_title=true&hide_border=true#gh-light-mode-only)](https://github.com/puzzlemoondev#gh-light-mode-only)
+[![trophy-Dark](https://github-profile-trophy.vercel.app/?username=puzzlemoondev&theme=onedark&no-bg=true&no-frame=true&column=4&rank=-?#gh-dark-mode-only)](https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only)
+[![trophy-Light](https://github-profile-trophy.vercel.app/?username=puzzlemoondev&no-bg=true&no-frame=true&column=4&rank=-?#gh-light-mode-only)](https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only)
 
 #### 𝕊𝕡𝕠𝕥𝕚𝕗𝕪
 [![spotify-github-profile-Dark](https://spotify-github-profile.kittinanx.com/api/view?uid=316zpxovrgg4api2ayhc2uxxecwi&cover_image=true&theme=compact&show_offline=false&background_color=00000000&interchange=false#gh-dark-mode-only)](https://spotify-github-profile.kittinanx.com/api/view?uid=316zpxovrgg4api2ayhc2uxxecwi&redirect=true#gh-dark-mode-only)
